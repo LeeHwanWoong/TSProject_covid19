@@ -138,7 +138,7 @@ function setRecoveredList(data) {
     recoveredList.appendChild(li);
   });
 }
-
+a
 function clearRecoveredList() {
   recoveredList.innerHTML = null;
 }
